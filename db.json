@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ivanov2022",
+      "name": "Ivan",
+      "email": "ivanov2022@mail.ru",
+      "phone": "+79001234567",
+      "website": "www.ivanov2022.ru",
+      "photo": "https://images.unsplash.com/photo-1551180452-aea351b23949?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "working": {
+        "id": 1,
+        "name": "Eclipse Digital Studio",
+        "address": "614007, г. Пермь, ул. 25 октября 72, офис 40",
+        "catchPhrase": "Ваши возможности, наша страсть",
+        "bs": "IT, Интернет-технологии"
+      }
+    },
+    {
+      "id": 2,
+      "username": "petrov_cool",
+      "name": "Petr",
+      "email": "petrov_cool@mail.ru",
+      "phone": "+79011234567",
+      "website": "www.petrov_cool.ru",
+      "photo": "https://images.unsplash.com/photo-1551180452-aea351b23949?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "working": {
+        "id": 1,
+        "name": "Eclipse Digital Studio",
+        "address": "614007, г. Пермь, ул. 25 октября 72, офис 40",
+        "catchPhrase": "Ваши возможности, наша страсть",
+        "bs": "IT, Интернет-технологии"
+      }
+    },
+    {
+      "id": 3,
+      "username": "sidorov_forever",
+      "name": "Sidor",
+      "email": "sidorov_forever@mail.ru",
+      "phone": "+79021234567",
+      "website": "www.sidorov_forever.ru",
+      "photo": "https://images.unsplash.com/photo-1551180452-aea351b23949?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "working": {
+        "id": 1,
+        "name": "Eclipse Digital Studio",
+        "address": "614007, г. Пермь, ул. 25 октября 72, офис 40",
+        "catchPhrase": "Ваши возможности, наша страсть",
+        "bs": "IT, Интернет-технологии"
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Первое разочарование года - обзор на новый эпизод Гарри Поттер 20 лет спустя",
+      "description": "1 января на HBO Max состоялась мировая премьера специального эпизода Гарри Поттер 20 лет спустя: Возвращение в Хогвартс, но как такового возращения не произошло. Спешу разочаровать всех поклонников франшизы - эпизод очень и очень средней. Пока смотрел, несколько раз ловил себя на мысли, что мне хочется поскорее, чтобы он закончился. Но нажать на кнопку перемотки всё же рука не поднялась.",
+      "image": "https://images.pexels.com/photos/2825384/pexels-photo-2825384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "comments": [
+        {
+          "id": 1,
+          "name": "Fedor",
+          "email": "fedor@mail.ru",
+          "comment": "It`s my life!"
+        },
+        {
+          "id": 1,
+          "name": "Kate",
+          "email": "kate@mail.ru",
+          "comment": "Tsoy is alive"
+        },
+        {
+          "id": 1,
+          "name": "Dima",
+          "email": "dima@mail.ru",
+          "comment": "Russia forever"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Первое разочарование года - обзор на новый эпизод Гарри Поттер 20 лет спустя",
+      "description": "1 января на HBO Max состоялась мировая премьера специального эпизода Гарри Поттер 20 лет спустя: Возвращение в Хогвартс, но как такового возращения не произошло. Спешу разочаровать всех поклонников франшизы - эпизод очень и очень средней. Пока смотрел, несколько раз ловил себя на мысли, что мне хочется поскорее, чтобы он закончился. Но нажать на кнопку перемотки всё же рука не поднялась.",
+      "image": "https://images.pexels.com/photos/10320658/pexels-photo-10320658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "comments": [
+        {
+          "id": 1,
+          "name": "Fedor",
+          "email": "fedor@mail.ru",
+          "comment": "It`s my life!"
+        },
+        {
+          "id": 1,
+          "name": "Kate",
+          "email": "kate@mail.ru",
+          "comment": "Tsoy is alive"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Первое разочарование года - обзор на новый эпизод Гарри Поттер 20 лет спустя",
+      "description": "1 января на HBO Max состоялась мировая премьера специального эпизода Гарри Поттер 20 лет спустя: Возвращение в Хогвартс, но как такового возращения не произошло. Спешу разочаровать всех поклонников франшизы - эпизод очень и очень средней. Пока смотрел, несколько раз ловил себя на мысли, что мне хочется поскорее, чтобы он закончился. Но нажать на кнопку перемотки всё же рука не поднялась.",
+      "image": "https://images.pexels.com/photos/9713163/pexels-photo-9713163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id": 4,
+      "title": "Первое разочарование года - обзор на новый эпизод Гарри Поттер 20 лет спустя",
+      "description": "1 января на HBO Max состоялась мировая премьера специального эпизода Гарри Поттер 20 лет спустя: Возвращение в Хогвартс, но как такового возращения не произошло. Спешу разочаровать всех поклонников франшизы - эпизод очень и очень средней. Пока смотрел, несколько раз ловил себя на мысли, что мне хочется поскорее, чтобы он закончился. Но нажать на кнопку перемотки всё же рука не поднялась.",
+      "image": "https://images.pexels.com/photos/10384730/pexels-photo-10384730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "photos": [
+        "https://images.pexels.com/photos/10334732/pexels-photo-10334732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "https://images.pexels.com/photos/10334732/pexels-photo-10334732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "https://images.pexels.com/photos/10334732/pexels-photo-10334732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      ],
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 2,
+      "photos": [
+        "https://images.pexels.com/photos/8717924/pexels-photo-8717924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "https://images.pexels.com/photos/8717924/pexels-photo-8717924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "https://images.pexels.com/photos/8717924/pexels-photo-8717924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      ],
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 3,
+      "photos": [
+        "https://images.pexels.com/photos/9078210/pexels-photo-9078210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "https://images.pexels.com/photos/9078210/pexels-photo-9078210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "https://images.pexels.com/photos/9078210/pexels-photo-9078210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      ],
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+  ]
+}
